@@ -1,0 +1,5 @@
+/resources/logs
+/vendor
+.env
+composer.lock
+.idea
